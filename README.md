@@ -1,1 +1,1 @@
-# ocean-study-app
+# ocean-study
